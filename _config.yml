@@ -27,7 +27,7 @@ tagline: A CollectionsBuilder site built during Learn@DLF 2023
 # this description might appear in search result lists, keep around 160 characters max
 description: "A demo site of template data and images"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: LizShand
 
 ##########
 # COLLECTION SETTINGS
