@@ -1,3 +1,7 @@
+# Demo for DLF
+
+Example collection for DLF Learn 2023
+
 # CollectionBuilder-GH
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
